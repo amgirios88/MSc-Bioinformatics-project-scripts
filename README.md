@@ -1,6 +1,10 @@
 # MSc-Bioinformatics-project-scripts
 Scripts used to obtain the results in the MSc thesis 
 
+main_3030116 script is run in consol via source(/path/to/file/main_3030116)
+It loads functions_3030116 if it is in the same folder.
+All data and scripts must be in the same folder.
+
 Documentation for functions contained in file functions_3030116.
 
     load_packages = "Function: load_packages()
